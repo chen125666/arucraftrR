@@ -1,2 +1,2 @@
 # arucraftrR
-服务器自定义资源包
+用于minecraft java版服务器自定义资源包
